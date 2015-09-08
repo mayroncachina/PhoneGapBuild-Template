@@ -5,6 +5,11 @@ _Copyright (c) Mayron Cachina.
 Template básico para utilização em projetos rápidos utilizando IONIC e Phonegap Build. É uma forma fácil para iniciar uma aplicação e envia-la para o http://build.phonegap.com.br
 
 
+## Dependências
+
+### Glup
+npm install -g gulp
+
 ## Project Structure:
 
 ### index.html

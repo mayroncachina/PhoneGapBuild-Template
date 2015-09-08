@@ -1,0 +1,16 @@
+{
+  "name": "PhoneGapBuild-Template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mayroncachina/PhoneGapBuild-Template",
+  "authors": [
+    "Mayron Cachina <mayroncachina@gmail.com>"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

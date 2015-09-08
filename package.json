@@ -1,0 +1,28 @@
+{
+  "name": "PhoneGapBuild-Template",
+  "version": "0.0.0",
+  "description": "Template for Phonegap Build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayroncachina/PhoneGapBuild-Template.git"
+  },
+  "keywords": [
+    "phonegap"
+  ],
+  "author": "Mayron Cachina",
+  "license": "APACHE2",
+  "bugs": {
+    "url": "https://github.com/mayroncachina/PhoneGapBuild-Template/issues"
+  },
+  "homepage": "https://github.com/mayroncachina/PhoneGapBuild-Template",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-chmod": "^1.2.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-zip": "^3.0.2"
+  }
+}
